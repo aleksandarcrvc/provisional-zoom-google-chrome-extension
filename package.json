@@ -1,0 +1,23 @@
+{
+  "name": "provisional-zoom-google-chrome-extension",
+  "version": "1.0.0",
+  "description": "Simple google chrome extension that gives you ability to zoom instantly without changing browser settings.",
+  "main": "mousetrap.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandarcrvc/provisional-zoom-google-chrome-extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksandarcrvc/provisional-zoom-google-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/aleksandarcrvc/provisional-zoom-google-chrome-extension#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-zip": "^3.2.0"
+  }
+}

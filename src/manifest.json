@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Zoom in zoom out",
+    "description": "Simple google chrome extension that gives you ability to zoom instantly without changing browser settings",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": ["*://github.com/*"],
+            "js": ["mousetrap.min.js", "zoom.js"]
+        }
+    ]
+}
