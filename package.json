@@ -18,6 +18,8 @@
   "homepage": "https://github.com/aleksandarcrvc/provisional-zoom-google-chrome-extension#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-zip": "^3.2.0"
+    "gulp-jasmine-livereload-task": "^0.10.0",
+    "gulp-zip": "^3.2.0",
+    "jasmine": "^2.5.2"
   }
 }
